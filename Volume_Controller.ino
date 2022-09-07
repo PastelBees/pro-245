@@ -1,4 +1,3 @@
-
 const byte buzzer_gpio = 18; 
 
 #define POTENTIOMETER_PIN  15
